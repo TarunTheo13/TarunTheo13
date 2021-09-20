@@ -1,8 +1,9 @@
-### Hi, I'm Tarun 👋
+<h1 align="center">Hi, I'm Tarun 👋</h1>
+<h3 align="center">An aspiring software developer based in London</h3>
 
 - 🐝 Status: **Job hunting** 👀
 - 🌱 I’m currently learning **React**
-- 📍 Location: **London, England**
+- 💬 Ask me about: **Dinosaur Murder-Mystery Games** 🦖
 
 <!--
 **TarunTheo13/TarunTheo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
