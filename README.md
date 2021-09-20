@@ -88,7 +88,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=TarunTheo13&count_private=true&theme=onedark&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunTheo13&layout=compact&theme=onedark&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunTheo13&theme=onedark&hide_border=true" />
-
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunTheo13)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunTheo13)](https://github.com/anuraghazra/github-readme-stats)
