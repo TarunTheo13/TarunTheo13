@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Tarun 👋
+
+- 🐝 Status: **Job hunting** 👀
+- 🌱 I’m currently learning **React**
+- 📍 Location: **London, England**
 
 <!--
 **TarunTheo13/TarunTheo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
