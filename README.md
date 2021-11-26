@@ -38,7 +38,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
       <td style="vertical-align: top">
         <ul>
           <li>React.js</li>
-         <li>Next.js</li>
+          <li>Next.js</li>
+         <li>Node.js</li>
           <li>AJAX</li>
           <li>Bootstrap</li>
           <li>JQuery</li>
