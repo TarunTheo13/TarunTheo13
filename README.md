@@ -37,9 +37,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
       </td>
       <td style="vertical-align: top">
         <ul>
+          <li>Django</li>
+          <li>Angular.js</li>
           <li>React.js</li>
           <li>Next.js</li>
-         <li>Node.js</li>
+          <li>Node.js</li>
           <li>AJAX</li>
           <li>Bootstrap</li>
           <li>JQuery</li>
