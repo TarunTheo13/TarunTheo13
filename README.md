@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Theo 👋</h1>
 <h3 align="center">A Junior software developer based in London</h3>
 
-- 🐝  Status: **Working for Housekeep**
+- 🐝  Status: **Job Searching**
 - 🌱  I’m currently learning **Django**
 - 💬  Ask me about **Dinosaur Murder-Mystery Games** 🦖
 - 🌻 Message me on **LinkedIn**
