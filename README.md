@@ -6,7 +6,7 @@
 - 💬  Ask me about **Dinosaur Murder-Mystery Games** 🦖
 - 🌻 Message me on **LinkedIn**
 
-[![Linkedin Badge](https://img.shields.io/badge/Tarun%20Weisz-blue?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/tarun-theo-weisz-389604219/)](https://www.linkedin.com/in/tarun-theo-weisz-389604219/)
+[![Linkedin Badge](https://img.shields.io/badge/Theo%20Weisz-blue?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/theo-w-389604219/)](https://www.linkedin.com/in/theo-w-389604219/)
 [![Codewars Badge](https://www.codewars.com/users/Theocity13/badges/micro)](https://www.codewars.com/users/Theocity13)
 
  ## Languages & Technologies
